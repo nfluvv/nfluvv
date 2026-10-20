@@ -15,7 +15,7 @@ Full-Stack / Front-End Developer deeply focused on building highly scalable web 
 
 ### 🪐 Featured Projects
 
-🚀 [Doceox](https://github.com/nfluvv/doceox) — A premium, open-source Quizlet alternative built for students and developers. Features a server-side implementation of the SuperMemo-2 (SM2) spaced repetition algorithm. [Demo](http://t.me/doceox_bot/Doceox)
+🚀 [Doceox](https://github.com/nfluvv/doceox) — An open-source Quizlet alternative built for students and developers. Features a server-side implementation of the SuperMemo-2 (SM2) spaced repetition algorithm. [Demo](http://t.me/doceox_bot/Doceox)
 
 👾 [Nxt-v2](https://github.com/nfluvv/nxt-v2) — A production-ready boilerplate with TWA authorization, themes from telegram, admin-panel, etc. [Demo](http://t.me/nxt_v2_bot/nxtemplate)
 
