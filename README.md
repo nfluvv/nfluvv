@@ -2,7 +2,7 @@
 
 Full-Stack / Front-End Developer deeply focused on building highly scalable web applications using Next.js, TypeScript, and Prisma. 
 
--
+--
 
 📐 Production-minded engineer with a strong passion for Feature-Sliced Design (FSD) architecture and clean, maintainable code.
 
