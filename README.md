@@ -4,16 +4,12 @@ Full-Stack / Front-End Developer deeply focused on building highly scalable web 
 
 📐 Production-minded engineer with a strong passion for Feature-Sliced Design (FSD) architecture and clean, maintainable code.
 
----
-
 ### 🛠 Tech Stack & Tools
 
 - Frameworks & Libs: Next.js 16 (App Router), React 19, Tailwind CSS
 - Backend & Database: Prisma ORM, PostgreSQL, Supabase, Next.js Server Actions
 - State & Auth: Auth.js (NextAuth), React Context / Zustand
 - Architecture: Feature-Sliced Design (FSD)
-
----
 
 ### 🪐 Featured Projects
 
@@ -27,8 +23,6 @@ Full-Stack / Front-End Developer deeply focused on building highly scalable web 
 ⚙️ [Next-Template](https://github.com/nfluvv/next-template) — A production-ready authentication starter kit.
 - Built from the ground up using FSD architecture, pre-configured with Auth.js, Prisma, and dynamic themes.
 - [Live Demo](https://next-template-rho-six.vercel.app)
-  
----
 
 ### 📬 Connect with me
 - GitHub: [Click](https://github.com/nfluvv)
