@@ -12,7 +12,7 @@ Full-Stack / Front-End Developer deeply focused on building highly scalable web 
 
 ### 🪐 Featured Projects
 
-- 🚀 [Ketchup](https://github.com/nfluvv/ketchup): An open-source Quizlet alternative built for students and developers. Features a server-side implementation of the SuperMemo-2 (SM2) spaced repetition algorithm. [Launch](http://t.me/doceox_bot/Doceox)
+- 🚀 [Ketchup](https://github.com/nfluvv/ketchup): An open-source Quizlet alternative built for students and developers. Features a server-side implementation of the SuperMemo-2 (SM2) spaced repetition algorithm. [Launch](http://t.me/doceox_bot/ketchup)
 
 - 👾 [Nxt-v2](https://github.com/nfluvv/nxt-v2): A production-ready boilerplate with TWA authorization, themes from telegram, admin-panel, etc. As other projects, nxt-v2 built based on FSD. [Demo](http://t.me/nxt_v2_bot/nxtemplate)
 
