@@ -15,7 +15,7 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+<img src="https://cdn.simpleicons.org/neon/00E599" height="40" alt="neon logo" />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=telegram" height="40" alt="telegram logo" />
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="telegram logo" />
 </div>
 
 ###
