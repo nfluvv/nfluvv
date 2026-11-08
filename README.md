@@ -99,9 +99,6 @@ I build fast, scalable web apps with clean and simple code.
     </tr>
   </tbody>
 </table>
-> [!TIP]
-> All three projects are built with **Feature-Sliced Design (FSD)**. This makes them easy to read, scale, and maintain.
-
 <details>
 <summary><b>📦 More details about each project</b></summary>
 
@@ -117,7 +114,7 @@ I build fast, scalable web apps with clean and simple code.
 - Uses the theme colors from Telegram
 - Includes an admin panel
 
-**⚙️ Nxt-v1**
+**⚙️ Next-template**
 - Ready-to-use authentication with Auth.js
 - Database layer with Prisma
 - Dynamic themes
