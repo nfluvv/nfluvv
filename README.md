@@ -63,7 +63,7 @@ I build fast, scalable web apps with clean and simple code.
 | Area | Tools |
 | :--- | :--- |
 | **Frontend** | Next.js 16 (App Router), React 19, Tailwind CSS |
-| **Backend & Database** | Prisma ORM, PostgreSQL, Supabase, Next.js Server Actions |
+| **Backend & Database** | Prisma ORM, PostgreSQL, Neon or Supabase, Next.js Server Actions |
 | **State & Auth** | Auth.js (NextAuth), React Context, Zustand |
 | **Architecture** | Feature-Sliced Design (FSD) |
 
