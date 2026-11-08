@@ -119,27 +119,5 @@ I build fast, scalable web apps with clean and simple code.
 ###
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=nfluvv&theme=bear&show_icons=true&hide_border=true&count_private=true">
-</p>
-
-###
-
-<p align="center">
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=nfluvv&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
-###
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nfluvv/nfluvv/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nfluvv/nfluvv/refs/heads/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/nfluvv/nfluvv/refs/heads/output/github-contribution-grid-snake.svg" />
-</picture>
-</p>
-
-###
-
-<p align="center">
 ⭐ <i>Open for interesting freelance projects. Let's build something great together.</i>
 </p>
