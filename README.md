@@ -73,12 +73,32 @@ I build fast, scalable web apps with clean and simple code.
 
 ## 🪐 Featured Projects
 
-| Project | Description | Link |
-| :---- | :--- | :---: |
-| 🚀 [**Ketchup**](https://github.com/nfluvv/ketchup) | Open-source Quizlet alternative for students and developers. It has a server-side version of the SuperMemo-2 (SM2) spaced repetition algorithm. | [Launch](http://t.me/doceox_bot/ketchup) |
-| 👾 [**Nxt-v2**](https://github.com/nfluvv/nxt-v2) | Production-ready boilerplate with TWA login, Telegram themes, an admin panel, and more. | [Demo](http://t.me/nxt_v2_bot/nxtemplate) |
-| ⚙️ [**Nxt-v1**](https://github.com/nfluvv/next-template) | Production-ready authentication starter kit with Auth.js, Prisma, and dynamic themes. | [Demo](https://next-template-rho-six.vercel.app) |
-
+<table>
+  <thead>
+    <tr>
+      <th width="220" align="left">Project</th>
+      <th align="left">Description</th>
+      <th width="100" align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="220">🚀 <a href="https://github.com/nfluvv/ketchup"><b>Ketchup</b></a></td>
+      <td>Open-source Quizlet alternative for students and developers. It has a server-side version of the SuperMemo-2 (SM2) spaced repetition algorithm.</td>
+      <td width="100" align="center"><a href="http://t.me/doceox_bot/ketchup">Launch</a></td>
+    </tr>
+    <tr>
+      <td width="220">👾 <a href="https://github.com/nfluvv/nxt-v2"><b>Nxt-v2</b></a></td>
+      <td>Production-ready boilerplate with TWA login, Telegram themes, an admin panel, and more.</td>
+      <td width="100" align="center"><a href="http://t.me/nxt_v2_bot/nxtemplate">Demo</a></td>
+    </tr>
+    <tr>
+      <td width="220">⚙️ <a href="https://github.com/nfluvv/next-template"><b>Next-template</b></a></td>
+      <td>Production-ready authentication starter kit with Auth.js, Prisma, and dynamic themes.</td>
+      <td width="100" align="center"><a href="https://next-template-rho-six.vercel.app">Demo</a></td>
+    </tr>
+  </tbody>
+</table>
 > [!TIP]
 > All three projects are built with **Feature-Sliced Design (FSD)**. This makes them easy to read, scale, and maintain.
 
