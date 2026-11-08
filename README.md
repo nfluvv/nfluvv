@@ -97,7 +97,7 @@ I build fast, scalable web apps with clean and simple code.
 - Uses the theme colors from Telegram
 - Includes an admin panel
 
-**⚙️ Next-Template**
+**⚙️ Nxtemplate**
 - Ready-to-use authentication with Auth.js
 - Database layer with Prisma
 - Dynamic themes
