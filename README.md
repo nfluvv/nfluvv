@@ -1,22 +1,49 @@
+<h1 align="center">👾 Nfluvv / fullstack developer</h1>
+
+###
+
 <div align="center">
-
-# Hi there, I'm nfluvv 👋
-
-**Full-Stack / Front-End Developer**
-I build fast, scalable web apps with clean and simple code.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-![Auth.js](https://img.shields.io/badge/Auth.js-8B5CF6?style=flat-square&logo=auth0&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
 </div>
+
+###
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=telegram" height="40" alt="telegram logo" />
+</div>
+
+###
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+</div>
+
+###
+
+<p align="center">
+<b>Hi there, I'm nfluvv 👋</b><br>
+I build fast, scalable web apps with clean and simple code.
+</p>
 
 ---
 
@@ -28,7 +55,10 @@ I build fast, scalable web apps with clean and simple code.
 
 ---
 
-## 🛠 Tech Stack
+<details>
+<summary><b>🛠 Tech Stack</b></summary>
+
+<br>
 
 | Area | Tools |
 | :--- | :--- |
@@ -36,6 +66,8 @@ I build fast, scalable web apps with clean and simple code.
 | **Backend & Database** | Prisma ORM, PostgreSQL, Supabase, Next.js Server Actions |
 | **State & Auth** | Auth.js (NextAuth), React Context, Zustand |
 | **Architecture** | Feature-Sliced Design (FSD) |
+
+</details>
 
 ---
 
@@ -76,12 +108,38 @@ I build fast, scalable web apps with clean and simple code.
 
 ## 📬 Connect with Me
 
+<div align="center">
+
 | Platform | Link |
 | :--- | :--- |
 | **GitHub** | [github.com/nfluvv](https://github.com/nfluvv) |
 
-<div align="center">
-
-⭐ *Open for interesting freelance projects. Let's build something great together.*
-
 </div>
+
+###
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=nfluvv&theme=bear&show_icons=true&hide_border=true&count_private=true">
+</p>
+
+###
+
+<p align="center">
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=nfluvv&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+###
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nfluvv/nfluvv/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nfluvv/nfluvv/refs/heads/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/nfluvv/nfluvv/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
+###
+
+<p align="center">
+⭐ <i>Open for interesting freelance projects. Let's build something great together.</i>
+</p>
