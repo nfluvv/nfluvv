@@ -74,7 +74,7 @@ I build fast, scalable web apps with clean and simple code.
 ## 🪐 Featured Projects
 
 | Project | Description | Link |
-| :--- | :--- | :---: |
+| :---- | :--- | :---: |
 | 🚀 [**Ketchup**](https://github.com/nfluvv/ketchup) | Open-source Quizlet alternative for students and developers. It has a server-side version of the SuperMemo-2 (SM2) spaced repetition algorithm. | [Launch](http://t.me/doceox_bot/ketchup) |
 | 👾 [**Nxt-v2**](https://github.com/nfluvv/nxt-v2) | Production-ready boilerplate with TWA login, Telegram themes, an admin panel, and more. | [Demo](http://t.me/nxt_v2_bot/nxtemplate) |
 | ⚙️ [**Nxt-v1**](https://github.com/nfluvv/next-template) | Production-ready authentication starter kit with Auth.js, Prisma, and dynamic themes. | [Demo](https://next-template-rho-six.vercel.app) |
