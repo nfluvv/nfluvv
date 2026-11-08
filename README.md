@@ -41,7 +41,7 @@
 ###
 
 <p align="center">
-<b>Hi there, I'm nfluvv 👋</b><br>
+<b>Hi there, I'm Matthew 👋</b><br>
 I build fast, scalable web apps with clean and simple code.
 </p>
 
