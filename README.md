@@ -99,27 +99,6 @@ I build fast, scalable web apps with clean and simple code.
     </tr>
   </tbody>
 </table>
-<details>
-<summary><b>📦 More details about each project</b></summary>
-
-<br>
-
-**🚀 Ketchup**
-- Built for students and developers
-- Uses the SM2 spaced repetition algorithm on the server
-- Works as a Telegram Mini App
-
-**👾 Nxt-v2**
-- Login through Telegram Web Apps (TWA)
-- Uses the theme colors from Telegram
-- Includes an admin panel
-
-**⚙️ Next-template**
-- Ready-to-use authentication with Auth.js
-- Database layer with Prisma
-- Dynamic themes
-
-</details>
 
 ---
 
