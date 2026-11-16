@@ -83,9 +83,9 @@ I build fast, scalable web apps with clean and simple code.
   </thead>
   <tbody>
     <tr>
-      <td width="220">🚀 <a href="https://github.com/nfluvv/vexel"><b>Ketchup</b> (vexel)</a></td>
+      <td width="220">🚀 <a href="http://t.me/doceox_bot/Doceox"><b>Ketchup</b></a></td>
       <td>Open-source Quizlet alternative for students and developers. It has a server-side version of the SuperMemo-2 (SM2) spaced repetition algorithm.</td>
-      <td width="100" align="center"><a href="http://t.me/doceox_bot/ketchup">Launch</a></td>
+      <td width="100" align="center"><a href="http://t.me/doceox_bot/Doceox">Launch</a></td>
     </tr>
     <tr>
       <td width="220">👾 <a href="https://github.com/nfluvv/nxt-v2"><b>Nxt-v2</b></a></td>
