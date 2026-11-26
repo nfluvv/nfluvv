@@ -88,6 +88,11 @@ I build fast, scalable web apps with clean and simple code.
       <td width="100" align="center"><a href="http://t.me/doceox_bot/Doceox">Launch</a></td>
     </tr>
     <tr>
+      <td width="220">🛍 <a href="https://github.com/nfluvv/nxt-shop"><b>Nxt shop</b></a></td>
+      <td>A ready-to-use online TWA store Built on top of <a href="https://github.com/nfluvv/nxt-v2">nxt-v2</a>.</td>
+      <td width="100" align="center"><a href="http://t.me/nxt_v2_bot/nxtemplate">Demo</a></td>
+    </tr>
+    <tr>
       <td width="220">👾 <a href="https://github.com/nfluvv/nxt-v2"><b>Nxt-v2</b></a></td>
       <td>Production-ready boilerplate with TWA login, Telegram themes, an admin panel, and more.</td>
       <td width="100" align="center"><a href="http://t.me/nxt_v2_bot/nxtemplate">Demo</a></td>
